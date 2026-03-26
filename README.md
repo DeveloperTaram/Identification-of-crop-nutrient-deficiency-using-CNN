@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-We present a streamlined approach for a plant nutrient deficiency system using image 
-analysis. The process encompasses data collection, preprocessing, model selection, 
+We present a streamlined approach for a plant nutrient deficiency system using CNN. 
+The process encompasses data collection, preprocessing, model selection, 
 training, evaluation, deployment, and continuous improvement. 
 Using machine learning techniques, pre-trained models, and convolutional neural 
 networks, this research created a web application to detect nutritional deficits in rice plants. 
@@ -13,10 +13,13 @@ libraires such as scikit-learn and TensorFlow, with the maximum accuracy of 93.1
 attained by ResNet50V2. Farmers can improve crop yields by addressing deficiencies with 
 the aid of an interactive Streamlit-based program that offers clear projections. Efficiency 
 and usability are guaranteed by modular architecture.
+
+
 ## Objectives
 1. Identification of Nutrients into macro and micronutrients. 
 2. Identification of Nutrients Deficiency in crops. 
 3. Fin-tuning a pre-trained model to increase accuracy.  
+
 ## Installation
 Follow the steps below to set up and run the project locally.
 
@@ -30,15 +33,12 @@ Follow the steps below to set up and run the project locally.
 
 - **Frontend:** Streamlit
 - **Language:** Python
-- **Data Visualization:**Matplotlib
+- **Data Visualization:** Matplotlib
 
 
 ## Acknowledgements
 
 - **GoogleBrain** for providing tensorflow.
 - **GoogleColab** for providing computing resources.
+- **Kaggle** for providing Dataset.
 
-## Contact
-
-For queries, reach out at:  
-- Email: ajittaram6@gmail.com 
