@@ -23,7 +23,7 @@ and usability are guaranteed by modular architecture.
 ## Installation
 Follow the steps below to set up and run the project locally.
 
-- **Prerequisites**
+**Prerequisites**
 - Before you begin, ensure that you have the following installed:
 
 - **Python 3.7+** (for Flask and machine learning support)
